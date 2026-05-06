@@ -19,7 +19,7 @@ Highlights:
 CREATE VIEW gold.report_products AS
 WITH base_query AS (
 /*
-1) Base Query: Retrieves core columns from tables
+Base Query: Retrieves core columns from tables
 */
 SELECT 
 	f.order_number,
@@ -40,7 +40,7 @@ WHERE order_date IS NOT NULL
 
 , product_aggregations AS (
 /*
-2) Product Aggregations: Summarizes key metrics at the product level
+Product Aggregations: Summarizes key metrics at the product level
 */
 SELECT 
 	product_key,
