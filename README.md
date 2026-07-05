@@ -30,4 +30,4 @@ This project demonstrates the transition from raw transactional data to high-lev
 * **Growth Metrics:** Isolated specific periods of growth and decline using month-over-month comparisons.
 * **Inventory Mix:** Segmented products into cost brackets to understand the price distribution of the inventory.
 ---
-**Tooling Used:** SQL Server (T-SQL), SQL Server Management Studio (SSMS), GitHub.
+**Tooling Used:** SQL Server (T-SQL), SQL Server Management Studio (SSMS), Power BI, GitHub.
