@@ -29,5 +29,10 @@ This project demonstrates the transition from raw transactional data to high-lev
 * **Customer Value:** Identified a "VIP" segment of customers who drive a significant portion of revenue.
 * **Growth Metrics:** Isolated specific periods of growth and decline using month-over-month comparisons.
 * **Inventory Mix:** Segmented products into cost brackets to understand the price distribution of the inventory.
+
+## Visualization
+<img width="1194" height="673" alt="image" src="https://github.com/user-attachments/assets/bada9d1a-5442-46d6-8194-b4d850ee7daa" />
+
 ---
+
 **Tooling Used:** SQL Server (T-SQL), SQL Server Management Studio (SSMS), Power BI, GitHub.
