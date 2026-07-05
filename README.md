@@ -31,8 +31,14 @@ This project demonstrates the transition from raw transactional data to high-lev
 * **Inventory Mix:** Segmented products into cost brackets to understand the price distribution of the inventory.
 
 ## Visualization
-<img width="1194" height="673" alt="image" src="https://github.com/user-attachments/assets/bada9d1a-5442-46d6-8194-b4d850ee7daa" />
+<img width="1830" height="1029" alt="image" src="https://github.com/user-attachments/assets/fb46b603-3139-4085-9395-d15b7203e3f0" />
+
+Overall Trends & Patterns:
+* Sales grew consistently from 2011 through late 2013, with the strongest period of growth occurring from Q1 2013 onward. December 2013 marked the highest single month of sales in the dataset.
+* Bikes are the dominant revenue driver, accounting for 96.6% of total sales ($28M of $29M) — Accessories and Clothing combined make up the remaining 2.3%.
+* Within Bikes, revenue is concentrated in a handful of top-performing models (Mountain-200 and Road-150 variants), each contributing $1.0M-$1.4M individually, suggesting these are the flagship products worth prioritizing for inventory and marketing focus.
+
 
 ---
 
-**Tooling Used:** SQL Server (T-SQL), SQL Server Management Studio (SSMS), Power BI, GitHub.
+**Tools Used:** SQL Server (T-SQL), SQL Server Management Studio (SSMS), Power BI, GitHub.
